@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kausikrstnj
-- My Portfolio - https://kausikrstnj.github.io/
+- 🌐 My Portfolio - https://kausikrstnj.github.io/
 - 👀 I’m interested in : Exploring new technologies, coding, artificial intelligence, and contributing to open-source projects.
 - 🌱 I’m currently learning : Full stack development and enhancing my problem-solving skills.
 - 💞️ I’m looking to collaborate : on Exciting projects that involve cutting-edge technology, innovative solutions, and making a positive impact.
